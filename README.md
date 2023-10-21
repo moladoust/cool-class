@@ -1,5 +1,5 @@
 # cool-class
-An Online Class Administration in Cool Way
+An Online Class Administration in a Cool Way
 
 ![Online-Courses-Eclass-Learning-Management-System-png-1318×7214-](https://github.com/moladoust/cool-class/assets/54714112/8f416f74-a9cc-458f-82f8-6d8c3dafa2a8)
 
